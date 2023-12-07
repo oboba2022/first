@@ -1,0 +1,16 @@
+body{
+    background-color:cyan;
+}
+h1{
+    margin-left: 850px;
+    transition:1.5s;
+    margin-top: 400px;
+    font-size: 100px;
+}
+h1:hover{
+    color:red;
+}
+h5{
+    font-size:50px;
+    margin-left:340px;
+}
